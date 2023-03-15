@@ -23,6 +23,7 @@ void bfs(int start, int count){
             }
             if(next == 100){
                 cout << cnt + 1;
+                return;
             }
             if(!visited[next] && next <= 100) {
                 visited[next] = true;
