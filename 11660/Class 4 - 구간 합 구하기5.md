@@ -78,10 +78,8 @@ N×N개의 수가 N×N 크기의 표에 채워져 있다. (x1, y1)부터 (x2, y
 이 문제는 그림으로 그려보면 쉽다.
 
 ### 구간합을 구하는 법
+<img width="423" alt="image" src="https://user-images.githubusercontent.com/117426928/230152063-830c6a55-9ad0-40b6-b639-84b1a284a0be.png">
 
-![Untitled](<img width="213" alt="image" src="https://user-images.githubusercontent.com/117426928/230151466-a9eda277-54ea-4238-b478-842f7ca6678d.png">)
-
-![Untitled](<img width="216" alt="image" src="https://user-images.githubusercontent.com/117426928/230151632-4d5f0806-2848-4440-b101-542e38c1d30b.png">)
 
 1행과 1열은 앞선 문제의 1차원 구간합처럼 구하면 된다.
 
