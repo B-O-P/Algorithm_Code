@@ -79,9 +79,9 @@ N×N개의 수가 N×N 크기의 표에 채워져 있다. (x1, y1)부터 (x2, y
 
 ### 구간합을 구하는 법
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1a7baf35-4dd3-49c9-995e-3dc58d201658/Untitled.png)
+<img width="213" alt="image" src="https://user-images.githubusercontent.com/117426928/230151466-a9eda277-54ea-4238-b478-842f7ca6678d.png">
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c056c75e-26a4-4105-8b14-f0ed92cb46da/Untitled.png)
+<img width="216" alt="image" src="https://user-images.githubusercontent.com/117426928/230151632-4d5f0806-2848-4440-b101-542e38c1d30b.png">
 
 1행과 1열은 앞선 문제의 1차원 구간합처럼 구하면 된다.
 
